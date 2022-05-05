@@ -18,7 +18,10 @@ module.exports = withPWA(
           pageExtensions: ["md", "mdx", "tsx"],
           pwa: {
             dest: 'public',
-            runtimeCaching
+            runtimeCaching,
+            modifyURLPrefix: {
+              'static/': '_next/static/',
+            }
           }
         },
       )
