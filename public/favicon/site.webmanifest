@@ -16,6 +16,5 @@
     "theme_color": "#ffffff",
     "background_color": "#ffffff",
     "display": "standalone",
-    "start_url": "https://solid-git-pwasupporttest-bkoshelev.vercel.app/",
-    "scope": "https://solid-git-pwasupporttest-bkoshelev.vercel.app/"
+    "start_url": "/"
 }
