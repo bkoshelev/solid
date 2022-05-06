@@ -16,6 +16,6 @@
     "theme_color": "#ffffff",
     "background_color": "#ffffff",
     "display": "standalone",
-    "start_url": "https://ota-solid.vercel.app/",
-    "scope": "https://ota-solid.vercel.app/"
+    "start_url": "https://solid-git-pwasupport-bkoshelev.vercel.app/",
+    "scope": "https://solid-git-pwasupport-bkoshelev.vercel.app/"
 }
